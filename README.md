@@ -33,10 +33,6 @@ The purpose of this repository is to provide applications and services for the B
 
 ## Contributing
 Each sub-bullet point is essentially its own task.
-If you'd like to work on a task, feel free to prepend your name and date picked up in this README.  
-  E.G. [David 1/1/21] - design X for Y feature  
-Once finished, feel free to strike through the text to mark it as complete.  
-  E.G. ~~[David 1/1/21] - design X for Y feature~~. 
-This way we can see what has and hasn't been worked on yet.
+If you'd like to work on a task, feel free to prepend your name and date picked up in this README (E.G. [David 1/1/21] - design X for Y feature). Once finished, feel free to strike through the text to mark it as complete (E.G. ~~[David 1/1/21] - design X for Y feature~~). This way we can see what has and hasn't been worked on yet.
 
 
